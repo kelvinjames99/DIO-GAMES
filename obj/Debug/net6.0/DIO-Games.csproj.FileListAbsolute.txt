@@ -1,0 +1,15 @@
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\bin\Debug\net6.0\DIO-Games.exe
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\bin\Debug\net6.0\DIO-Games.deps.json
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\bin\Debug\net6.0\DIO-Games.runtimeconfig.json
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\bin\Debug\net6.0\DIO-Games.dll
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\bin\Debug\net6.0\ref\DIO-Games.dll
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\bin\Debug\net6.0\DIO-Games.pdb
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\obj\Debug\net6.0\DIO-Games.csproj.AssemblyReference.cache
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\obj\Debug\net6.0\DIO-Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\obj\Debug\net6.0\DIO-Games.AssemblyInfoInputs.cache
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\obj\Debug\net6.0\DIO-Games.AssemblyInfo.cs
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\obj\Debug\net6.0\DIO-Games.csproj.CoreCompileInputs.cache
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\obj\Debug\net6.0\DIO-Games.dll
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\obj\Debug\net6.0\ref\DIO-Games.dll
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\obj\Debug\net6.0\DIO-Games.pdb
+C:\Users\Mks\Desktop\DIO .net\DIO-GAMES\obj\Debug\net6.0\DIO-Games.genruntimeconfig.cache
